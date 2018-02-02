@@ -4,7 +4,7 @@
 
 Finds the closest azure region :cloud: :earth_americas:
 
-![readme logo](./readme_logo.gif)
+![readme logo](https://github.com/bengreenier/node-closest-azure/raw/v1.0.1/readme_logo.gif)
 
 > This module relies on [CNAME](https://en.wikipedia.org/wiki/CNAME_record) conventions :sparkles:
 
