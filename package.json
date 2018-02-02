@@ -1,0 +1,12 @@
+{
+  "name": "closest-azure",
+  "version": "1.0.0",
+  "description": "find the closest azure region",
+  "main": "index.js",
+  "keywords": [
+    "azure",
+    "location"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT"
+}
